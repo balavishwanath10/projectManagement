@@ -4,3 +4,5 @@ We have
 PRODUCT TITLE
 SHORT DESCREPTION
 Languagues being used are HTML, CSS , JS
+
+Updated README.md
